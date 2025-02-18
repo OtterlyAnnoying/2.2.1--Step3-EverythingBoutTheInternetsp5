@@ -3,7 +3,7 @@ body {
     height: 100vh; 
     margin: 40px; 
     display: flex;
-    justify-content: center;  /* Centers horizontally */
-    align-items: center;  /* Centers vertically */
-    text-align: center; /* Ensures text inside is centered */
+    justify-content: center; 
+    align-items: center;  
+    text-align: center; 
 }
