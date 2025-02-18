@@ -1,9 +1,6 @@
+
 body {
-    background-image: linear-gradient(to bottom, #dbeafe, #fde2e2);
-    height: 100vh; 
-    margin: 40px; 
-    display: flex;
-    justify-content: center; 
-    align-items: center;  
-    text-align: center; 
+  background-image: linear-gradient(to bottom, #dbeafe, #fde2e2);
+  height: 100vh; 
+  margin: 40px; 
 }
